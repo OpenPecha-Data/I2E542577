@@ -1,0 +1,38 @@
+id: I2E542577
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T00:58:10.215067'
+last_modified: '2022-06-19T00:58:10.215084'
+parser: null
+source_metadata:
+  title: Bodhisattvacāryāvatāra commentary by bSod nams rtse mo (1142–1182), block
+    print, colophon excerpt
+  author: སློབ་དཔོན་བསོད་ནམས་རྩེ་མོ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2015-06-24);
+    revised, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:David Jackson (dj)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:David Jackson (dj), Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/945
+  bases:
+    1c5e:
+      title: Bodhisattvacāryāvatāra commentary by bSod nams rtse mo (1142–1182), block
+        print, colophon excerpt
+      order: 1
+      base_file: 1c5e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
